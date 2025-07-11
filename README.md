@@ -26,7 +26,7 @@ Here is the information you need to gather :
 
 
 ## What about softwares ?
-Same. inventory is all
+Same. inventory is all.
 
 1. list of all softwares, Free and open source, Freemium, etc.
 2. Licence.
@@ -39,4 +39,6 @@ Make a dashboard, excel file, whatever to follow the subscriptions you have.
 
 WAIT A MINUTE. You think it was that easy ? No, what about the credentials you used for that subscription ? Yes... you need to document that also. Because your CTO leaves. What about the email address he used to log and subscribed. You lost it all. So document it.
 
-# 
+# Passowrd manager
+2 words, password. manager.
+Everyone, and everything must be in a password manager. You're not clever saving your logs in an excel files.
