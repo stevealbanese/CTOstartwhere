@@ -1,4 +1,4 @@
-# CTOstartwhere
+# CTO Start Where ?
 
 Taking an IT management role in a new company? Don't know where to start? Then, you're welcome.
 
