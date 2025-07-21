@@ -58,13 +58,15 @@ It will also help you make quick offboarding process through the admin tool.
 # Infrastructure Documentation
 
 So, now we have the lists of :
-1. All the hardwares
-2. All the softares
+1. All the hardwares **(What, where)**
+2. All the softares **(What, where)**
 
-To those, we will add the users access.
-Who can log where and with what level of access ?
+To those, we will add the users access **(who)**
+- Who can log where and with what level of access ?
+- Is it necessary ? **(why)**
 - any superadmin out there that shouldn't be ?
 - Old employee access ?
+
 
 
 
