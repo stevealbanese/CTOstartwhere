@@ -153,7 +153,7 @@ Let's make teamwork suck less:
 
 1. Collaborative suites
    * Nextcloud (FOSS) and very good
-   * MS365 99% you've inherited this shit.
+   * MS365 99% chance you've inherited this shit and you'll be stuck in it. Don't even try to change it if your users are on it. Waste of time and energy.
    * Google Workspace. Say byebye to privacy.
   
 2. Internal messaging tools
